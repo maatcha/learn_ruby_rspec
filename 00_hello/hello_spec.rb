@@ -109,7 +109,7 @@ end
 
 describe "the greet function" do
   it "says hello to someone" do
-    expect(greet("Alice")).to eq("Hello, Alice!")
+    expect(greet("Malik")).to eq("Hello, Malik!")
   end
 
   it "says hello to someone else" do
